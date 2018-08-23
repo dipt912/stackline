@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Diptesh",
   "license": "MIT",
-  "homepage": "http://dipt912.guthub.io/Stackline",
+  "homepage": "http://dipt912.guthub.io/stackline",
   "dependencies": {
     "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",
