@@ -1,0 +1,44 @@
+.nav-logo{
+    margin-left:20px;
+}
+
+nav{
+    background-color: white;
+}
+
+.nav-text-name{
+    color:blue;
+}
+.left-sidebar{
+   height:86vh;
+    background-color: white;
+}
+.i-block{
+    display: inline-block;
+}
+.graph-container{
+    background-color: white;
+    height: 40vh;
+    margin-top: 10px;
+}
+.deatails{
+    height:45vh;
+    background-color: white;
+    overflow: scroll;
+}
+.main-container{
+    background-color: lightgray;
+}
+
+.tag{
+    border: 1px solid lightgrey;
+    border-radius: 2px;
+    display: inline-block;
+    margin: 2px;
+    padding:2px;
+    font-size: 10px;
+}
+.chart{
+    width: 100%;
+    height:100%;
+}
